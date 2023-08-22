@@ -9,10 +9,11 @@ lista_arquivos = os.listdir(caminho)
 
 # LIstar as pastas e os arquivos a serem inseridos nela
 locais = {
-    "imagens": [".png", ".jpg"],
+    "imagens": [".png", ".jpg", ".jpeg"],
     "planilhas": [".xlsx", ".xls"],
     "pdfs": [".pdf"],
     "csv": [".csv"]
+
 }
 
 # Loop para passar em todos os arquivos e colocar nas respectivas pastas
