@@ -12,7 +12,6 @@
 
 ## Autor do projeto
 
-
 Luiz Fernando Silva Monteiro - [LinkedIn](https://www.linkedin.com/in/lf-monteiro/)
 
 ## Como rodar o projeto?
