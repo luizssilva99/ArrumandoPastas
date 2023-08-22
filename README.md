@@ -18,7 +18,7 @@ Luiz Fernando Silva Monteiro - [LinkedIn](https://www.linkedin.com/in/lf-monteir
 
 ### Clone este repositório
 ```bash
-$ git clone link_do_repositorio
+$ git clone https://github.com/luizssilva99/ArrumandoPastas.git
 ```
 ### Acesse a pasta do projeto no seu terminal
 ```bash
