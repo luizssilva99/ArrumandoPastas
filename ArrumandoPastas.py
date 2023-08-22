@@ -7,7 +7,7 @@ caminho = askdirectory(title="Selecione a pasta")
 # Criando a lista dos arquivos dentro do diretorio selecionado
 lista_arquivos = os.listdir(caminho)
 
-# LIstar as pastas e os arquivos a serem inseridos nela
+# Listar as pastas e os arquivos a serem inseridos nela
 locais = {
     "imagens": [".png", ".jpg", ".jpeg"],
     "planilhas": [".xlsx", ".xls"],
