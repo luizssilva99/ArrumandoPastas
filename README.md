@@ -33,3 +33,7 @@ $ python ArrumandoPastas.py
 # Linux
 $ python3 ArrumandoPastas.py
 ```
+
+1. Execute o script
+2. Selecione o diretório onde estão os arquivos que irá arrumar
+3. As pastas serão criadas dentro do diretorio dos arquivos
