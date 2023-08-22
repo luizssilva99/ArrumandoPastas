@@ -6,7 +6,15 @@
 - <a href="rodas">Como rodar o projeto?<a/>
 
 ## Tecnologias utilizadas
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
+
 ## Autor do projeto
+
+
+Luiz Fernando Silva Monteiro - [LinkedIn](https://www.linkedin.com/in/lf-monteiro/)
+
 ## Como rodar o projeto?
 
 ```bash
