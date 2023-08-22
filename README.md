@@ -16,21 +16,21 @@ Luiz Fernando Silva Monteiro - [LinkedIn](https://www.linkedin.com/in/lf-monteir
 
 ## Como rodar o projeto?
 
+### Clone este repositório
 ```bash
-# Clone este repositório
 $ git clone link_do_repositorio
-
-# Acesse a pasta do projeto no seu terminal
+```
+### Acesse a pasta do projeto no seu terminal
+```bash
 $ cd ArrumandoPastas
-
-# Instale o requeirements.txt (SE HOUVER)
-$ pip install -r requirements.txt
-
-# Execute o código
-# Windows
+```
+### Execute o código
+### Windows
+```bash
 $ python ArrumandoPastas.py
-
-# Linux
+```
+### Linux
+```bash
 $ python3 ArrumandoPastas.py
 ```
 
